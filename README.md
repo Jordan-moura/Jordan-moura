@@ -1,4 +1,4 @@
-### Bem Vindo ao meu portfólio👋
+### Bem Vindo ao meu Portfólio👋
 
 <!--
 **Jordan-moura/Jordan-moura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
